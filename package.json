@@ -1,0 +1,8 @@
+{
+    "name": "expressreact",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/khapeterk/expressreact.git",
+    "author": "Peter Kha <khapeterk@gmail.com>",
+    "license": "UNLICENSED"
+}
